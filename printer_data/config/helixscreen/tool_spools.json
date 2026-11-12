@@ -1,0 +1,12 @@
+{
+  "printers": {
+    "default": {
+      "0": {
+        "remaining_weight_g": 5000.0,
+        "spool_name": "Army Green",
+        "spoolman_id": 39,
+        "total_weight_g": 1000.0
+      }
+    }
+  }
+}
