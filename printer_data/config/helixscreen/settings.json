@@ -251,13 +251,13 @@
           {
             "enabled": true,
             "klipper_name": "filament_switch_sensor T0_filament",
-            "role": "runout",
+            "role": "none",
             "type": "switch"
           },
           {
             "enabled": true,
             "klipper_name": "filament_switch_sensor T1_filament",
-            "role": "none",
+            "role": "runout",
             "type": "switch"
           },
           {
