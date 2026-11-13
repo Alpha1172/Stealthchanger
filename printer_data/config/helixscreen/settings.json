@@ -251,7 +251,7 @@
           {
             "enabled": true,
             "klipper_name": "filament_switch_sensor T0_filament",
-            "role": "none",
+            "role": "toolhead",
             "type": "switch"
           },
           {
