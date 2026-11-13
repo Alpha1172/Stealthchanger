@@ -288,7 +288,10 @@
             "controller_fan z_stepper"
           ],
           "filament_sensors": [
-            "filament_switch_sensor filament_sensor"
+            "filament_switch_sensor T0_filament",
+            "filament_switch_sensor T1_filament",
+            "filament_switch_sensor T2_filament",
+            "filament_switch_sensor T3_filament"
           ],
           "heaters": [
             "heater_bed",
@@ -319,7 +322,7 @@
             "temperature_fan electronics_fan1",
             "temperature_fan electronics_fan2"
           ],
-          "timestamp": "2026-11-12T21:53:04Z"
+          "timestamp": "2026-11-13T01:04:21Z"
         },
         "optional": []
       },
