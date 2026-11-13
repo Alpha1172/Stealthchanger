@@ -726,7 +726,7 @@
     "purge": "",
     "resume": "",
     "screws_tilt": "",
-    "unload_filament": ""
+    "unload_filament": "UNLOAD_FILAMENT"
   },
   "telemetry_enabled": false,
   "theme": {
