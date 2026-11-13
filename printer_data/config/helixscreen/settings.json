@@ -716,7 +716,7 @@
     "show_printer_switcher": false
   },
   "standard_macros": {
-    "bed_level": "",
+    "bed_level": "LEVEL_AND_MESH",
     "bed_mesh": "",
     "cancel": "",
     "clean_nozzle": "",
