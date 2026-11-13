@@ -738,7 +738,7 @@
     "bed_mesh": "",
     "cancel": "",
     "clean_nozzle": "",
-    "heat_soak": "",
+    "heat_soak": "HEATSOAK",
     "load_filament": "LOAD_FILAMENT",
     "pause": "",
     "purge": "",
